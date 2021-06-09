@@ -13,7 +13,7 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
-  background-image: url(./mountains.jpg);
+  /* background-image: url(./mountains.jpg); */
   background-position: center center;
   background-size: cover;
   transition: 0.4s;
